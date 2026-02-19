@@ -1,0 +1,35 @@
+
+{
+  "name": "smartticket-analyzer-mvp",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "server": "tsx server.ts"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@google/genai": "^1.35.0",
+    "lucide-react": "^0.562.0",
+    "recharts": "^3.6.0",
+    "date-fns": "^4.1.0",
+    "xlsx": "0.18.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "typescript": "^5.6.2",
+    "vite": "^6.0.0",
+    "tsx": "^4.19.1"
+  }
+}

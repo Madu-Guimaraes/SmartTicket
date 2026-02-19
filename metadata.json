@@ -1,0 +1,5 @@
+{
+  "name": "SmartTicket Analyzer MVP",
+  "description": "Uma plataforma analítica de chamados utilizando IA para identificar padrões, causas raiz e sugerir ações preventivas em suporte e infraestrutura.",
+  "requestFramePermissions": []
+}
